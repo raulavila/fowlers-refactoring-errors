@@ -8,8 +8,8 @@ public class DateRangeInmutable {
     private final Date end;
 
     public DateRangeInmutable(Date start, Date end) {
-        this.start = start;
-        this.end = end;
+        this.start = new Date(start.getTime());
+        this.end = new Date(end.getTime());
     }
 
     public Date getStart() {
