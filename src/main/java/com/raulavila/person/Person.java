@@ -14,7 +14,7 @@ public class Person {
     }
     
     public static Person createFemale() {
-        return new Person(true, 'M');
+        return new Person(false, 'F');
     }
 
     public boolean isMale() {

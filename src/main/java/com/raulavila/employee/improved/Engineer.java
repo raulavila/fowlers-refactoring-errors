@@ -1,6 +1,6 @@
-package com.raulavila.factories.improved;
+package com.raulavila.employee.improved;
 
-import com.raulavila.factories.types.EmployeeType;
+import com.raulavila.employee.types.EmployeeType;
 
 class Engineer implements Employee {
     @Override

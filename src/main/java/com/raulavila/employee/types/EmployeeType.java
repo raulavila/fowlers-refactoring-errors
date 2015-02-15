@@ -1,4 +1,4 @@
-package com.raulavila.factories.types;
+package com.raulavila.employee.types;
 
 public enum EmployeeType {
     ENGINEER,

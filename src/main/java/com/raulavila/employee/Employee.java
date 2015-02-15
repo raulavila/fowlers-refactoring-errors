@@ -1,6 +1,6 @@
-package com.raulavila.factories;
+package com.raulavila.employee;
 
-import com.raulavila.factories.types.EmployeeType;
+import com.raulavila.employee.types.EmployeeType;
 
 public abstract class Employee {
 

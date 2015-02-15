@@ -1,7 +1,6 @@
-package com.raulavila.factories.improved;
+package com.raulavila.employee.improved;
 
-import com.raulavila.factories.types.EmployeeType;
-import org.junit.Ignore;
+import com.raulavila.employee.types.EmployeeType;
 import org.junit.Rule;
 import org.junit.Test;
 import org.junit.rules.ExpectedException;
